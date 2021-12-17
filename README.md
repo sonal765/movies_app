@@ -16,3 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 MOVIES APP - UI Animation
+
+
+https://user-images.githubusercontent.com/77162700/146532926-a8e595d1-d0a2-446f-bfb9-105d845a5297.mp4
+
